@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/persona-lcode-learning-starter/persona-lcode-learning-starter.iml" filepath="$PROJECT_DIR$/persona-lcode-learning-starter/persona-lcode-learning-starter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/personal-code-learning.iml" filepath="$PROJECT_DIR$/.idea/personal-code-learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/personal-code-learning-customer/personal-code-learning-customer.iml" filepath="$PROJECT_DIR$/personal-code-learning-customer/personal-code-learning-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persona-lcode-learning-starter/personal-code-learning-starter.iml" filepath="$PROJECT_DIR$/persona-lcode-learning-starter/personal-code-learning-starter.iml" />
     </modules>
   </component>
 </project>
