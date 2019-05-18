@@ -1,0 +1,12 @@
+spring:
+  main:
+    banner-mode: "off"
+    allow-bean-definition-overriding: true
+server:
+  port: 8989
+person:
+  id: 007
+  name: jamesBang
+  gender: male
+  address: china
+  enabled: true
