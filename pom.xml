@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>persona-lcode-learning-starter</module>
+        <module>personal-code-learning-starter</module>
         <module>personal-code-learning-customer</module>
     </modules>
     <name>personal-code-learning</name>
