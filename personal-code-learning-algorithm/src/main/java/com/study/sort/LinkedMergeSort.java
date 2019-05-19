@@ -1,4 +1,4 @@
-package com.study;
+package com.study.sort;
 
 import java.util.Objects;
 
@@ -34,7 +34,7 @@ public class LinkedMergeSort {
     private ListNode getMiddle(ListNode head){
         ListNode slow = head;
         ListNode fast = head.next;
-        while (!Objects.isNull(fast) && !Objects.isNull(fast.next)) {
+        while (Objects.nonNull(fast) && Objects.nonNull(fast.next)) {
             slow = slow.next;
             fast = fast.next.next;
         }

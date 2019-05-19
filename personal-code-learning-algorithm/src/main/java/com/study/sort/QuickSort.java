@@ -1,4 +1,4 @@
-package com.study;
+package com.study.sort;
 
 import java.util.Arrays;
 import java.util.Objects;
@@ -13,7 +13,7 @@ public class QuickSort {
     }
 
     public void quickSort(int[] origin){
-        if (!Objects.isNull(origin) && origin.length > 1) {
+        if (Objects.nonNull(origin) && origin.length > 1) {
             subQuickSort(origin, 0, origin.length-1);
         }
     }
