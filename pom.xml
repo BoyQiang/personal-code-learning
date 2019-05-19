@@ -11,6 +11,7 @@
     <modules>
         <module>personal-code-learning-starter</module>
         <module>personal-code-learning-customer</module>
+        <module>personal-code-learning-algorithm</module>
     </modules>
     <name>personal-code-learning</name>
 
