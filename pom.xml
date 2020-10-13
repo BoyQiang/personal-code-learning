@@ -19,7 +19,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>11</java.version>
         <boot.version>2.1.5.RELEASE</boot.version>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <lombox.version>1.18.8</lombox.version>
     </properties>
     <parent>
